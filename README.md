@@ -1,4 +1,5 @@
 # Personal Project
+Budgeting software.
 This is a project for the course CPSC 210 at the University of British Columbia.
 
 :arrow_forward: Please refer to [edX][1] for description and instructions.
